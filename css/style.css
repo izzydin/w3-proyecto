@@ -1,0 +1,16 @@
+body{
+
+}
+.container{
+    max-width: 1170px;
+    margin: 0 auto;
+}
+.external-links{
+    background-color:#1a2127;
+}
+.external-links ul{
+    list-style-type: none;
+}
+.external-links ul li a{
+    text-decoration: none;
+}
